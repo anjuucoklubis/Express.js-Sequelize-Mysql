@@ -16,7 +16,7 @@
 4. Delete Product
 
 ### Step 
-1. Clone or download code
+1. Download code
 2. open in your text editor
 3. npm install express sequelize mysql2 cors nodmeon
 3. set database in config folder
